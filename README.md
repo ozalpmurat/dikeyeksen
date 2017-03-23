@@ -1,10 +1,9 @@
-#Go Programlama Kitabı
+Go Programlama Kitabı
+====================
 
 Dikeyeksen yayınevinden 2017 yılında yayınlanmış olan "Go Programlama" kitabı içerisindeki uygulamaların kodları bu depodan indirilebilir.
 
-Kitabın orijinal sitesi için buraya tıklayabilirsiniz:
-This is [an example](http://example.com/ "Title") inline link.
-[This link](http://example.net/) has no title attribute.
+[Kitabın orijinal sitesi için buraya tıklayabilirsiniz: https://www.dikeyeksen.com/products/go-programlama](https://www.dikeyeksen.com/products/go-programlama)
 
 ![Kitap banner](https://github.com/ozalpmurat/dikeyeksen/raw/master/kitapkapagi/go_programlama_banner.jpg)
 
