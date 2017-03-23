@@ -1,0 +1,24 @@
+<!-- uygulama_10_3-->
+<!-- index.html -->
+<html>
+<body>
+	<table border=1>
+	<tr>
+	<th>Numara</th>
+	<th>Söz sahibi</th>
+	<th>Sene</th>
+	<th>Patlak söz</th>
+	</tr>
+	<!------ DÖNGÜ BASLANGICI ------->
+	{{ range $DiziIndisi, $DiziElemani := . }}
+	<tr>
+	<td>{{ $DiziIndisi }}</td>
+	<td>{{ $DiziElemani.Söyleyen }}</td>
+	<td>{{ $DiziElemani.Zaman }}</td>
+	<td>{{ $DiziElemani.Cümle }}</td>
+	</tr>
+	{{ end }}
+	<!---------- DÖNGÜ SONU --------->
+	</table>
+</body>
+</html>

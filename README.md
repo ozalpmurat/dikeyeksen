@@ -1,3 +1,2 @@
 # dikeyeksen
-Go Programlama kitap uygulamaları
-uygulamalar burada olacak
+Dikeyeksen yayınevinden 2017 yılında yayınlanmış olan "Go Programlama" kitabı içerisindeki uygulamaları kodları buradan indirilebilir.
